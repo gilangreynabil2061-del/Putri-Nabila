@@ -11,7 +11,7 @@
     <div id="container">
 
         <header>
-            <img src="images/header.png" alt="Header Stasioneri KVB">
+            <img src="images/Header.png" alt="Header Stasioneri KVB">
         </header>
 
         <nav>
@@ -128,4 +128,5 @@
 
 </body>
 </html>
+
 
