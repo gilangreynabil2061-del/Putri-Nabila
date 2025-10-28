@@ -11,12 +11,12 @@
     <div id="container">
 
         <header>
-            <img src="images/Header.png" alt="Header Stasioneri KVB">
+            <img src="images/header.png" alt="Header Stasioneri KVB">
         </header>
 
         <nav>
             <ul>
-                <li><a href="index.php">Beranda</a></li>
+                <li><a href="index.html">Beranda</a></li>
                 <li><a href="#">Artikel</a></li>
                 <li>
                     <a href="#">Profil</a>
@@ -128,3 +128,4 @@
 
 </body>
 </html>
+
